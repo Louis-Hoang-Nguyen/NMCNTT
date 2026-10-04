@@ -1,0 +1,3 @@
+Lệnh đường dẫn tương đối: cd ../.. 
+Lệnh đường dẫn tuyệt đối: cd 26120117_Tuan0/media
+Giải thích sự khác nhau
