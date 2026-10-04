@@ -1,0 +1,4 @@
+9.4M	media/video_goc.mp4
+1.4M	media/video_nen.mp4
+công cụ đã sử dụng: ffmpeg
+lệnh ffmpeg -i media/video_goc.mp4 -vcodec libx264 -crf 28 media/video_nen.mp4

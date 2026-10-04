@@ -1,3 +1,4 @@
 Lệnh đường dẫn tương đối: cd ../.. 
 Lệnh đường dẫn tuyệt đối: cd 26120117_Tuan0/media
-Giải thích sự khác nhau
+Giải thích sự khác nhau: Đường dẫn tương đối là đường dẫn tính từ vị trí thư mục hiện đang đứng. 
+Trong khi đó, đường dẫn tuyệt đối là đường dẫn đầy đủ tính từ thư mục gốc của hệ thống, không thay đổi dù đang ở đâu.

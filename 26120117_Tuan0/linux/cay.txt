@@ -1,0 +1,14 @@
+26120117_Tuan0
+├── email
+├── linux
+│   ├── cay.txt
+│   ├── data
+│   │   └── gioithieu_v2.txt
+│   ├── duongdan.txt
+│   ├── gioithieu.txt
+│   ├── lichsu.txt
+│   ├── terminal.png
+│   └── tientrinh.txt
+└── media
+
+5 directories, 7 files
