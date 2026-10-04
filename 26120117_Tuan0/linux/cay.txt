@@ -10,5 +10,9 @@
 │   ├── terminal.png
 │   └── tientrinh.txt
 └── media
+    ├── chu_thich.png
+    ├── dungluong.txt
+    ├── video_goc.mp4
+    └── video_nen.mp4
 
-5 directories, 7 files
+5 directories, 11 files
